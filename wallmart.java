@@ -5,3 +5,4 @@ i m updating in remote repo
 merging conflicts
 check push from differnt branch
 cherry pick1
+cherry pick2

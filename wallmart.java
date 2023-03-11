@@ -7,3 +7,6 @@ rebase
 merging conflicts
 merging conflicts
 check push from differnt branch
+cherry pick1
+cherry pick2
+

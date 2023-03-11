@@ -3,3 +3,4 @@ i m updating java code
 i m updating in development branch
 i m updating in remote repo
 check push from differnt branch again
+ git stash example
